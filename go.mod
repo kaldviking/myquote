@@ -1,4 +1,4 @@
-module myquote
+module github.com/kaldviking/myquote
 
 go 1.17
 
